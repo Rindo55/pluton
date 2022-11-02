@@ -1,4 +1,4 @@
 https://github.com/prgofficial/pyrogram/archive/asyncio.zip
 tgcrypto
 appdirs
-aria2p
+https://github.com/pawamoy/aria2p
